@@ -1,9 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    Name: 'Alistamiento y mantenimiento preventivo de equipos',
+    Description:
+      'Alistamiento y mantenimiento preventivo de equipos son procesos fundamentales para asegurar el buen funcionamiento, la seguridad y la eficiencia de los equipos antes y durante su uso. El alistamiento consiste en preparar, inspeccionar y verificar que los equipos estén en condiciones óptimas para operar, mientras que el mantenimiento preventivo incluye acciones programadas como limpieza, lubricación, ajuste y cambio de piezas para evitar fallas y prolongar la vida útil de los equipos.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
