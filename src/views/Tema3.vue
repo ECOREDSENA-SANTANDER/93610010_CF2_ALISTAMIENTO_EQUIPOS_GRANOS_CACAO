@@ -7,12 +7,12 @@
         span 3
       h1 Mantenimiento preventivo de equipos
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+      .col-lg-5.col-10.col-md-8
         img(src='@/assets/curso/Tema3/mg01.png', alt='')
       .col-lg-7
         .row.justify-content-center.align-items-center.mb-3
-          .col-lg-2
+          .col-lg-2.col-3.mb-3.col-md-2
             img(src='@/assets/curso/Tema3/img02.svg', alt='')
           .col-lg-10
             p El mantenimiento preventivo es el conjunto de acciones planificadas y sistemáticas que se realizan a los equipos e instalaciones antes de que se presenten fallas, con el fin de asegurar su buen funcionamiento, prolongar su vida útil y evitar interrupciones en la producción. 
@@ -45,8 +45,8 @@
           img.w-card-icon(src="@/assets/curso/Tema1/cacao.svg")
           h3.bg3.py-2.w-card-text Tipos de mantenimiento
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-1
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
+      .col-lg-1.col-3.mb-3.col-md-3
         img(src="@/assets/curso/Tema3/img03.svg")
       .col-lg-11
         p Existen diversos tipos de mantenimiento que se aplican según las necesidades operativas y el estado de los equipos: mantenimiento preventivo, correctivo y predictivo, siendo el primero el más recomendado en entornos agroindustriales por su enfoque proactivo. Cada uno cumple una función específica y aporta al control de fallas, la optimización de recursos, la seguridad del personal y el cumplimiento de estándares técnicos y sanitarios.
@@ -102,11 +102,11 @@
           h3.bg3.py-2.w-card-text Actividades comunes de mantenimiento
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
       .col-lg-7
         p Las actividades comunes de mantenimiento comprenden tareas como limpieza técnica, lubricación, ajustes mecánicos, inspección de componentes eléctricos y sustitución de piezas desgastadas. Todas estas acciones pueden realizarse como parte del mantenimiento preventivo, predictivo o correctivo, dependiendo del estado del equipo y del plan de trabajo establecido por la planta.
         p En equipos para transformación de cacao, estas son las tareas preventivas más comunes:
-      .col-lg-5
+      .col-lg-5.col-md-9
         img(src="@/assets/curso/Tema3/img04.png")
 
 
@@ -158,13 +158,65 @@
           img.w-card-icon(src="@/assets/curso/Tema1/cacao.svg")
           h3.bg3.py-2.w-card-text Herramientas y materiales utilizados     
             
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-7
         p En el mantenimiento preventivo de equipos utilizados en la transformación del cacao, contar con las herramientas y materiales adecuados es fundamental para realizar intervenciones seguras, eficaces y conforme a los estándares técnicos e higiénicos del sector agroindustrial. 
         p.bg9.p-4 Las herramientas permiten realizar tareas como inspección, desmontaje, limpieza, lubricación, ajuste o reemplazo de componentes, mientras que los materiales aseguran que dichas tareas se ejecuten correctamente, sin comprometer la operatividad del equipo ni la inocuidad del producto. 
-      .col-lg-5
+      .col-lg-5.col-md-9
         img(src="@/assets/curso/Tema3/img05.png")
-
+    
+    .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+      .col-lg-10
+        .tarjeta--container.row.mb-5
+          .col-md.tarjeta.bgizq.p-5
+            .row.justify-content-center.mb-4
+              .col-5
+                figure
+                  img(src='@/assets/curso/Tema3/izq.svg', alt='')          
+            h2.text-center.text-white Herramientas
+            ul.lista-ul--color.text-white
+              li.d-flex
+                i.fas.fa-angle-right2
+                p.mb-0 Juego de llaves y destornilladores.
+              li.d-flex
+                i.fas.fa-angle-right2
+                p.mb-0 Pinzas, alicates, llaves ajustables.
+              li.d-flex
+                i.fas.fa-angle-right2
+                p.mb-0 Multímetro (para verificar sistemas eléctricos).
+              li.d-flex
+                i.fas.fa-angle-right2
+                p.mb-0 Manómetros o termómetros (para equipos térmicos).
+      
+          
+          .col-md.tarjeta.bgder.text-white.p-5
+            .row.justify-content-center.mb-4
+              .col-5
+                figure
+                  img(src='@/assets/curso/Tema3/der.svg', alt='')          
+            h2.text-center.text-white Materiales
+            ul.lista-ul--color.text-white
+              li.d-flex
+                i.fas.fa-angle-right2
+                p.mb-0 Aceites y grasas lubricantes aptos para alimentos.
+              li.d-flex
+                i.fas.fa-angle-right2
+                p.mb-0 Paños limpios, cepillos y detergentes neutros.
+              li.d-flex
+                i.fas.fa-angle-right2
+                p.mb-0 Cinta aislante, tornillos y repuestos menores. 
+              li.d-flex
+                i.fas.fa-angle-right2
+                p.mb-0 EPP: guantes, gafas, ropa de trabajo.
+    
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
+      .col-lg-7.bg12.p-3
+        .row.justify-content-center.align-items-center
+          .col-lg-1.col-3.mb-3.col-md-2
+            img(src='@/assets/curso/Tema2/hoja.svg', alt='')  
+          .col-lg-10
+            p.text-white #[b Nota:] los lubricantes deben ser grado alimentario si hay posibilidad de contacto con el producto.
+    
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         .d-flex.align-items-center
@@ -204,15 +256,47 @@
             h5.text-center Control de repuestos y materiales
             p.text-center Inventario actualizado de partes que se deben reemplazar periódicamente.
           
-        
-    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+      .col-lg-8.bg4.p-3
+        .row.justify-content-center.align-items-center
+          .col-lg-1.col-3.mb-3.col-md-2
+            img(src='@/assets/curso/Tema1/atencion.svg', alt='')  
+          .col-lg-11
+            p #[b Ejemplo:] un operario realiza mantenimiento del molino cada lunes. Usa un #[em checklist], firma la bitácora al finalizar y reporta si se encontró alguna anomalía.  
+    
+    .row.justify-content-start.mb-2(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         .d-flex.align-items-center
           img.w-card-icon(src="@/assets/curso/Tema1/cacao.svg")
           h3.bg3.py-2.w-card-text Documentación técnica y formatos
 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+      .col-lg-7
+        p.mb-3 La documentación técnica es esencial para garantizar trazabilidad, cumplir con normativas (como BPM o HACCP) y facilitar auditorías internas o externas.
+        .row.bg1.p-3
+          h4 Documentos clave
+          ul.lista-ul--color
+            li.d-flex
+              i.fas.fa-angle-right2
+              p.mb-0 Manual del fabricante: instrucciones sobre uso, mantenimiento y seguridad.
 
+            li.d-flex
+              i.fas.fa-angle-right2
+              p.mb-0 Ficha técnica del equipo: especificaciones, capacidades, materiales, conexiones.
 
+            li.d-flex
+              i.fas.fa-angle-right2
+              p.mb-0 Formato de #[em checklist] de mantenimiento: lista con tareas por equipo.
+
+            li.d-flex
+              i.fas.fa-angle-right2
+              p.mb-0 Formato de reporte de anomalías: para registrar cualquier irregularidad.
+
+            li.d-flex
+              i.fas.fa-angle-right2
+              p.mb-0 Bitácora de mantenimiento: historial de actividades realizadas.
+      .col-lg-5.col-md-9
+        img(src='@/assets/curso/Tema3/img07.png', alt='')  
 
 
 
