@@ -7,26 +7,26 @@
           span 1
         h1 Alistamiento de equipos
     
-      .row.justify-content-center.mb-4
+      .row.justify-content-center.mb-4(data-aos="zoom-in-left")
         .col-lg-7
           .row.justify-content-center.align-items-center.bg2.p-4.mb-3
-            .col-lg-4.col-6.mb-3
+            .col-lg-4.col-6.mb-3.col-md-5
               img(src='@/assets/curso/Tema1/img01.svg', alt='') 
             .col-lg-8
               p En la transformación del cacao, el alistamiento comprende el conjunto de actividades previas destinadas a la preparación, verificación y organización de los equipos, herramientas, insumos y del personal involucrado en las etapas del proceso productivo las cuales son: fermentación, secado, tostado, molienda y elaboración de productos derivados tales como pasta, licor, manteca o chocolate.
           p Este procedimiento busca garantizar que todas las condiciones técnicas, higiénicas y operativas sean adecuadas antes de iniciar la producción, asegurando así la calidad y eficiencia del proceso.
-        .col-lg-5.col-10
+        .col-lg-5.col-10.col-md-9
           img(src='@/assets/curso/Tema1/img01.png', alt='')      
 
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-7
+        .col-lg-7.col-md-12.col-12
           .d-flex.align-items-center
             img.w-card-icon(src="@/assets/curso/Tema1/cacao.svg")
             h3.bg3.py-2.w-card-text Objetivos del alistamiento
 
-      .row.justify-content-center.align-items-center.mb-0
-        .col-lg-3.col-6.mb-3
+      .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
+        .col-lg-3.col-6.mb-3.col-md-5
           img(src='@/assets/curso/Tema1/img02.png', alt='')  
         .col-lg-9
           ol.lista-ol--cuadro.d-flex.mb-0
@@ -61,7 +61,7 @@
         .col-lg-11
           p El proceso de alistamiento de equipos en la transformación del cacao es una etapa esencial que garantiza la eficiencia, la seguridad y la calidad del producto final. A través de diversas fases (planificación, preparación, verificación, comunicación y ejecución) se asegura que cada equipo esté en condiciones óptimas para operar, que el personal conozca su rol y que los recursos necesarios estén disponibles. Con ello se previenen fallas técnicas, se reducen tiempos improductivos, que finalmente contribuye al cumplimiento de los estándares higiénicos y sanitarios de la industria alimentaria.
 
-      .row.justify-content-left.align-items-left.mb-3
+      .row.justify-content-left.align-items-left.mb-3(data-aos="zoom-in-left")
         .col-lg-12
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Tabla 1.
@@ -171,8 +171,8 @@
       #t_1_2.titulo-segundo.mb-5(data-aos="zoom-in-left")
         h2 1.2 Procedimientos básicos
 
-      .row.justify-content-center.align-items-center.mb-4
-        .col-lg-3.col-8.mb-3
+      .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
+        .col-lg-3.col-8.mb-3.col-md-7
           img(src='@/assets/curso/Tema1/img04.png', alt='')  
         .col-lg-9 
           p Los procedimientos básicos de alistamiento son aquellas acciones técnicas y operativas esenciales que se deben realizar antes de iniciar cualquier proceso de transformación del grano de cacao. Estas actividades garantizan que los equipos estén limpios, funcionales, calibrados y correctamente asignados al personal, con el fin de prevenir fallas, asegurar la inocuidad del producto y optimizar la eficiencia de la jornada productiva.
@@ -196,12 +196,12 @@
               li.d-flex
                 i.fas.fa-angle-right2
                 p.mb-0 Verificar la limpieza del área de trabajo (pisos, mesas, bandejas, superficies de contacto).
-          .col-lg-5
+          .col-lg-5.col-md-9
             figure
               img(src='@/assets/curso/Tema1/img05.png', alt='')
           .col-lg-11
             .row.justify-content-center.align-items-center.bg4.p-2
-              .col-lg-1.col-3.mb-3
+              .col-lg-1.col-3.mb-3.col-md-2
                 img(src='@/assets/curso/Tema1/atencion.svg', alt='')
               .col-lg-10
                 p #[b Ejemplo:] en la tostadora, se retiran los residuos de granos quemados de los tambores, se limpian las paredes internas con cepillo seco y se desinfecta con un paño húmedo antes del precalentamiento.
@@ -225,12 +225,12 @@
               li.d-flex
                 i.fas.fa-angle-right2
                 p.mb-0 Lubricar partes móviles según recomendaciones del fabricante.
-          .col-lg-5
+          .col-lg-5.col-md-9
             figure
               img(src='@/assets/curso/Tema1/img06.png', alt='')
           .col-lg-11
             .row.justify-content-center.align-items-center.bg4.p-2
-              .col-lg-1.col-3.mb-3
+              .col-lg-1.col-3.mb-3.col-md-2
                 img(src='@/assets/curso/Tema1/atencion.svg', alt='')
               .col-lg-10
                 p #[b Ejemplo:] en el molino, se revisa que las cuchillas no tengan mellas o desgaste desigual, lo cual podría generar una molienda irregular y elevar la temperatura del producto por fricción excesiva.
@@ -252,12 +252,12 @@
               li.d-flex
                 i.fas.fa-angle-right2
                 p.mb-0 Usar multímetro o #[em tester] para comprobar continuidad eléctrica si es necesario.
-          .col-lg-5
+          .col-lg-5.col-md-9
             figure
               img(src='@/assets/curso/Tema1/img07.png', alt='')
           .col-lg-11
             .row.justify-content-center.align-items-center.bg4.p-2
-              .col-lg-1.col-3.mb-3
+              .col-lg-1.col-3.mb-3.col-md-2
                 img(src='@/assets/curso/Tema1/atencion.svg', alt='')
               .col-lg-10
                 p #[b Ejemplo:] en la refinadora de cacao, se inspeccionan los contactos del panel de control, asegurando que todos los sensores de temperatura estén enviando señal correctamente al controlador.
@@ -279,12 +279,12 @@
               li.d-flex
                 i.fas.fa-angle-right2
                 p.mb-0 Confirmar la sensibilidad de sensores de temperatura o humedad en secadoras.
-          .col-lg-5
+          .col-lg-5.col-md-9
             figure
               img(src='@/assets/curso/Tema1/img08.png', alt='')
           .col-lg-11
             .row.justify-content-center.align-items-center.bg4.p-2
-              .col-lg-1.col-3.mb-3
+              .col-lg-1.col-3.mb-3.col-md-2
                 img(src='@/assets/curso/Tema1/atencion.svg', alt='')
               .col-lg-10
                 p #[b Ejemplo:]  la tostadora se calibra para alcanzar y mantener una temperatura de 120 °C durante 25 minutos, con el tambor girando a velocidad media para lograr un tostado parejo sin quemar los granos.
@@ -308,12 +308,12 @@
               li.d-flex
                 i.fas.fa-angle-right2
                 p.mb-0 Informar sobre precauciones específicas del equipo y medidas de seguridad.
-          .col-lg-5
+          .col-lg-5.col-md-9
             figure
               img(src='@/assets/curso/Tema1/img09.png', alt='')
           .col-lg-11
             .row.justify-content-center.align-items-center.bg4.p-2
-              .col-lg-1.col-3.mb-3
+              .col-lg-1.col-3.mb-3.col-md-2
                 img(src='@/assets/curso/Tema1/atencion.svg', alt='')
               .col-lg-10
                 p #[b Ejemplo:] se asigna a un operario con experiencia para manejar la refinadora, mientras otro técnico es responsable de revisar cada hora la temperatura del licor de cacao. Un supervisor coordina el seguimiento de parámetros y registros en las listas de control.
@@ -330,7 +330,7 @@
             img.w-card-icon(src="@/assets/curso/Tema1/cacao.svg")
             h3.bg3.py-2.w-card-text Principales documentos
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-lg-8
          ul.lista-ul--color
           li.d-flex
@@ -349,11 +349,11 @@
             i.fas.fa-angle-right2
             p.mb-0 #[b Registros de control de calidad:] documentan variables críticas como temperaturas, tiempos de procesamiento y condiciones ambientales, permitiendo la trazabilidad y verificación de los estándares del producto final.
          .row.justify-content-center.align-items-center.bg5.p-2
-            .col-lg-1.col-3.mb-3
+            .col-lg-1.col-3.mb-3.col-md-2
               img(src='@/assets/curso/Tema1/atencion.svg', alt='')
             .col-lg-11
               p #[b Ejemplo técnico:] antes de iniciar la producción, el operador debe consultar el manual de la tostadora y ajustar los parámetros de tiempo y temperatura de acuerdo con la variedad y la humedad del cacao, asegurando el proceso de tostado uniforme y una calidad organoléptica óptima.
-        .col-lg-4.col-8
+        .col-lg-4.col-8.col-md-6
           img(src="@/assets/curso/Tema1/img10.png")
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -365,40 +365,40 @@
       p.mb-4 La ejecución eficiente de las labores de alistamiento y mantenimiento requiere disponer de los siguientes elementos:
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-3.col-8.mb-3
+        .col-lg-3.col-8.mb-3.col-md-6
           img(src="@/assets/curso/Tema1/img11.png")
         .col-lg-9
          SlyderF.circl-arrow.mb-4(columnas="col-lg-6 col-xl-4")
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
-              .col-6
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/Tema1/1.svg' alt='')
             h4.text-center.bg6.p-1 Herramientas técnicas
             p.text-center Llaves, destornilladores, cepillos y brochas especiales para la limpieza y ajuste de componentes mecánicos.
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
-              .col-6
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/Tema1/2.svg' alt='')
             h4.text-center.bg6.p-1 Equipos de protección personal (EPP)
             p.text-center Guantes térmicos, gafas de seguridad, tapabocas o mascarillas contra polvo y calzado antideslizante, indispensables para garantizar la seguridad del operario.
           
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
-              .col-6
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/Tema1/3.svg' alt='')
             h4.text-center.bg6.p-1 Materiales de apoyo
             p.text-center Productos de limpieza inocuos para uso alimentario, lubricantes de grado alimenticio y paños absorbentes.
           
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
-              .col-6
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/Tema1/4.svg' alt='')
             h4.text-center.bg6.p-1 Recurso humano calificado
             p.text-center Técnicos u operarios con formación en manejo, calibración y mantenimiento de equipos de transformación del cacao.
           
           .tarjeta.bg1.p-4
             .row.justify-content-center.mb-3
-              .col-6
+              .col-6.col-md-4.col-lg-6
                 img(src='@/assets/curso/Tema1/5.svg' alt='')
             h4.text-center.bg6.p-1 Documentación técnica
             p.text-center Manuales de operación, listas de chequeo, protocolos de seguridad y fichas de mantenimiento actualizadas.
