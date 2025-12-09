@@ -278,23 +278,23 @@
           ul.lista-ul--color
             li.d-flex
               i.fas.fa-angle-right2
-              p.mb-0 Manual del fabricante: instrucciones sobre uso, mantenimiento y seguridad.
+              p.mb-0 #[b Manual del fabricante:] instrucciones sobre uso, mantenimiento y seguridad.
 
             li.d-flex
               i.fas.fa-angle-right2
-              p.mb-0 Ficha técnica del equipo: especificaciones, capacidades, materiales, conexiones.
+              p.mb-0 #[b Ficha técnica del equipo:] especificaciones, capacidades, materiales, conexiones.
 
             li.d-flex
               i.fas.fa-angle-right2
-              p.mb-0 Formato de #[em checklist] de mantenimiento: lista con tareas por equipo.
+              p.mb-0 #[b Formato de #[em checklist] de mantenimiento:] lista con tareas por equipo.
 
             li.d-flex
               i.fas.fa-angle-right2
-              p.mb-0 Formato de reporte de anomalías: para registrar cualquier irregularidad.
+              p.mb-0 #[b Formato de reporte de anomalías:] para registrar cualquier irregularidad.
 
             li.d-flex
               i.fas.fa-angle-right2
-              p.mb-0 Bitácora de mantenimiento: historial de actividades realizadas.
+              p.mb-0 #[b Bitácora de mantenimiento:] historial de actividades realizadas.
       .col-lg-5.col-md-9
         img(src='@/assets/curso/Tema3/img07.png', alt='')  
 

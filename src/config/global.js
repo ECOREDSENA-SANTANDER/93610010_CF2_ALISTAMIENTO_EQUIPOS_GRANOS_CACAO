@@ -293,18 +293,18 @@ export default {
     },
     {
       referencia:
-        'Grupo Zingal. (s. f.). Maquinaria para el procesamiento de cacao.',
+        'Grupo Zingal. (s.f.). Maquinaria para el procesamiento de cacao.',
       link: 'https://grupozingal.co/maquinaria-procesamiento-cacao/',
     },
     {
       referencia:
-        'Inscripciones SENA. (s. f.). Alistamiento y operación de maquinaria para la producción industrial.',
+        'Inscripciones SENA. (s.f.). Alistamiento y operación de maquinaria para la producción industrial.',
       link:
         'https://inscripcionessena.co/alistamiento-y-operacion-de-maquinaria-para-la-produccion-industrial/#google_vignette',
     },
     {
       referencia:
-        'Vulcanotec Chocolate. (s. f.). Maquinaria para cacao & chocolate.',
+        'Vulcanotec Chocolate. (s.f.). Maquinaria para cacao & chocolate.',
       link: 'https://www.cacaomachines.com/es/maquinaria-para-cacao-chocolate/',
     },
   ],

@@ -24,7 +24,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Seguridad industrial en Colombia
+              h4.mb-1 Seguridad industrial en Colombia.
               p.mb-0 Para ampliar y profundizar los contenidos abordados, se recomienda consultar el siguiente enlace.
             .col-sm-auto
               a.boton.bg8.texto-blanco(:href="('https://www.youtube.com/watch?v=3tOXor13c3g')" target="_blank")
@@ -115,27 +115,27 @@
           img.w-card-icon(src="@/assets/curso/Tema1/cacao.svg")
           h3.bg3.py-2.w-card-text Aplicación en la planta de cacao
 
-    .row.mb-2
+    .row.mb-4
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/Tema2/1.svg' alt='')
             .tarjeta.bg1
               .p-4
-                p.mb-0.text-center Cerca de la tostadora: señal de “Superficie caliente” y “Uso obligatorio de guantes térmicos”.
+                p.mb-0.text-center #[b Cerca de la tostadora:] señal de “Superficie caliente” y “Uso obligatorio de guantes térmicos”.
 
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/Tema2/2.svg' alt='')
             .tarjeta.bg1
               .p-4
-                p.mb-0.text-center En zonas de molienda: señal de “Uso obligatorio de protección auditiva”.
+                p.mb-0.text-center #[b En zonas de molienda:] señal de “Uso obligatorio de protección auditiva”.
 
         .col-md-6.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img(src='@/assets/curso/Tema2/3.svg' alt='')
             .tarjeta.bg1
               .p-4
-                p.mb-0.text-center Almacenamiento de productos químicos: señal de “Riesgo químico” y “Uso obligatorio de guantes y mascarilla”.
+                p.mb-0.text-center #[b Almacenamiento de productos químicos:] señal de “Riesgo químico” y “Uso obligatorio de guantes y mascarilla”.
 
 
     .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-left")
@@ -253,7 +253,7 @@
 
               li.d-flex
                 i.fas.fa-angle-right2
-                p.mb-0 Establecer rutinas diarias de limpieza con responsables definidos
+                p.mb-0 Establecer rutinas diarias de limpieza con responsables definidos.
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7

@@ -142,7 +142,7 @@
                         | Comunicar qué equipos están listos o requieren revisión.
                       li.d-flex
                         i.fas.fa-angle-right2
-                        | Registrar observaciones en formatos o checklists.
+                        | Registrar observaciones en formatos o #[em checklists].
                       li.d-flex
                         i.fas.fa-angle-right2
                         | Asignar responsables de monitoreo durante la producción.

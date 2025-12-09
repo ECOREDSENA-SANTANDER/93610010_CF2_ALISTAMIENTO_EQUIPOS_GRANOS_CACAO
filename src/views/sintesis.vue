@@ -11,7 +11,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.svg", alt="Organiza de forma estructurada tres componentes esenciales en procesos agroindustriales como la transformación del cacao: el alistamiento, que abarca desde los objetivos, fases, procedimientos básicos, documentos técnicos y herramientas necesarias para preparar los equipos antes de su uso; la seguridad industrial, que incluye el uso de elementos de protección personal (EPP), señalización, manejo de sustancias químicas, orden e higiene en el área de trabajo y prevención de accidentes; y el mantenimiento preventivo, que considera sus objetivos, tipos, actividades comunes, herramientas utilizadas, protocolos de seguimiento y la documentación técnica requerida. Esta estructura permite asegurar que las operaciones se realicen con eficiencia, seguridad, limpieza y cumplimiento normativo, garantizando la continuidad del proceso productivo y la calidad del producto final. ")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
