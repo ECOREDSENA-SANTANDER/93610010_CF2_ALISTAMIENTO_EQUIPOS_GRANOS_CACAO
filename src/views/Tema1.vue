@@ -215,7 +215,7 @@
             ul.lista-ul--color
               li.d-flex
                 i.fas.fa-angle-right2
-                p.mb-0 Verificar que cuchillas del molino estén afiladas, limpias y correctamente alineadas.
+                p.mb-0 Verificar que las cuchillas del molino estén afiladas, limpias y correctamente alineadas.
               li.d-flex
                 i.fas.fa-angle-right2
                 p.mb-0 Comprobar el estado de correas, bandas, engranajes, poleas y rodamientos.
