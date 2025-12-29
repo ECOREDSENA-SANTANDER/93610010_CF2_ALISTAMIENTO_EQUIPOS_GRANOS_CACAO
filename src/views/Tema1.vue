@@ -13,7 +13,7 @@
             .col-lg-4.col-6.mb-3.col-md-5
               img(src='@/assets/curso/Tema1/img01.svg', alt='') 
             .col-lg-8
-              p En la transformación del cacao, el alistamiento comprende el conjunto de actividades previas destinadas a la preparación, verificación y organización de los equipos, herramientas, insumos y del personal involucrado en las etapas del proceso productivo las cuales son: fermentación, secado, tostado, molienda y elaboración de productos derivados tales como pasta, licor, manteca o chocolate.
+              p En la transformación del cacao, el alistamiento comprende el conjunto de actividades previas destinadas a la preparación, verificación y organización de los equipos, herramientas, insumos y del personal involucrado en las etapas del proceso productivo, las cuales son: fermentación, secado, tostado, molienda y elaboración de productos derivados tales como pasta, licor, manteca o chocolate.
           p Este procedimiento busca garantizar que todas las condiciones técnicas, higiénicas y operativas sean adecuadas antes de iniciar la producción, asegurando así la calidad y eficiencia del proceso.
         .col-lg-5.col-10.col-md-9
           img(src='@/assets/curso/Tema1/img01.png', alt='')      
@@ -59,7 +59,7 @@
         .col-lg-1.col-4.mb-3
           img(src='@/assets/curso/Tema1/img03.svg', alt='')    
         .col-lg-11
-          p El proceso de alistamiento de equipos en la transformación del cacao es una etapa esencial que garantiza la eficiencia, la seguridad y la calidad del producto final. A través de diversas fases (planificación, preparación, verificación, comunicación y ejecución) se asegura que cada equipo esté en condiciones óptimas para operar, que el personal conozca su rol y que los recursos necesarios estén disponibles. Con ello se previenen fallas técnicas, se reducen tiempos improductivos, que finalmente contribuye al cumplimiento de los estándares higiénicos y sanitarios de la industria alimentaria.
+          p El proceso de alistamiento de equipos en la transformación del cacao es una etapa esencial que garantiza la eficiencia, la seguridad y la calidad del producto final. A través de diversas fases (planificación, preparación, verificación, comunicación y ejecución), se asegura que cada equipo esté en condiciones óptimas para operar, que el personal conozca su rol y que los recursos necesarios estén disponibles. Con ello se previenen fallas técnicas, se reducen tiempos improductivos, que finalmente contribuye al cumplimiento de los estándares higiénicos y sanitarios de la industria alimentaria.
 
       .row.justify-content-left.align-items-left.mb-3(data-aos="zoom-in-left")
         .col-lg-12
@@ -142,7 +142,7 @@
                         | Comunicar qué equipos están listos o requieren revisión.
                       li.d-flex
                         i.fas.fa-angle-right2
-                        | Registrar observaciones en formatos o #[em checklists].
+                        p.mb-0 Registrar observaciones en formatos o  #[em checklists].
                       li.d-flex
                         i.fas.fa-angle-right2
                         | Asignar responsables de monitoreo durante la producción.

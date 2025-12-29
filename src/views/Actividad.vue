@@ -20,7 +20,7 @@ export default {
       tema: 'Alistamiento y mantenimiento de equipos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar importancia de las etapas del alistamiento y mantenimiento de equipos con base en normas de seguridad industrial.',
+        '<b> Objetivo:</b> identificar importancia de las etapas del alistamiento y mantenimiento de equipos con base en normas de seguridad industrial.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
