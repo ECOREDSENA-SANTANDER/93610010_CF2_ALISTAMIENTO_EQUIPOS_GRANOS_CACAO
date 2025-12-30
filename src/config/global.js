@@ -288,23 +288,23 @@ export default {
   referencias: [
     {
       referencia:
-        'Cooperación Alemana al Desarrollo – GIZ. (2013, agosto). Catálogo de maquinaria para procesamiento de cacao [PDF]. Lima, Perú: GIZ.',
+        'Cooperación Alemana al Desarrollo – GIZ. (2013). Catálogo de maquinaria para procesamiento de cacao [PDF]. Lima, Perú: GIZ.',
       link: 'https://energypedia.info/images/0/08/Maquinaria_para_Cacao.pdf',
     },
     {
       referencia:
-        'Grupo Zingal. (s.f.). Maquinaria para el procesamiento de cacao.',
+        'Grupo Zingal. (s.f.). Cómo elegir maquinaria para cacao que potencie tu producción y conserve la calidad del grano.',
       link: 'https://grupozingal.co/maquinaria-procesamiento-cacao/',
     },
     {
       referencia:
-        'Inscripciones SENA. (s.f.). Alistamiento y operación de maquinaria para la producción industrial.',
+        'Inscripciones SENA. (s. f.). Alistamiento y operación de maquinaria para la producción industrial.',
       link:
         'https://inscripcionessena.co/alistamiento-y-operacion-de-maquinaria-para-la-produccion-industrial/#google_vignette',
     },
     {
       referencia:
-        'Vulcanotec Chocolate. (s.f.). Maquinaria para cacao & chocolate.',
+        'Vulcanotec Chocolate. (s.f.). Máquinas para Procesamiento de Cacao para Chocolateros Bean-to Bar.',
       link: 'https://www.cacaomachines.com/es/maquinaria-para-cacao-chocolate/',
     },
   ],

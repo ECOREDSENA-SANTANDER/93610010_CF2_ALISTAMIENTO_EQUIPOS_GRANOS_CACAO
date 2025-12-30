@@ -189,7 +189,7 @@ export default {
         {
           id: 8,
           texto:
-            'La higiene y orden en el área de trabajo es una responsabilidad compartida entre la empresa y los trabajadores. Se basa en identificar riesgos, tomar medidas preventivas y capacitar continuamente al personal.',
+            'La higiene y orden en el área de trabajo son una responsabilidad compartida entre la empresa y los trabajadores. Se basa en identificar riesgos, tomar medidas preventivas y capacitar continuamente al personal.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
